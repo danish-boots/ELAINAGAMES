@@ -1,7 +1,7 @@
 {
-  "name": "games-wabot",
+  "name": "ElainaGames",
   "version": "0.9.8",
-  "description": "Customizable WhatsApp Bot",
+  "description": "Elaina WhatsApp Bot",
   "depecrated": false,
   "main": "index.js",
   "directories": {
