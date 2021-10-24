@@ -40,15 +40,14 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
+│ LinkGroup : https://youtu.be/lmRd6XDoDlk
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
   body: '│ • %cmd %islimit %isPremium',
   footer: '╰────\n',
   after: `
-*%npmname@^%version*
+*ElainaBot*
 ${'```%npmdesc```'}
 `,
 }
